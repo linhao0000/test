@@ -1,0 +1,16 @@
+{
+    "name": "linhao0000/test",
+    "description": "only test",
+    "type": "project",
+    "require": {
+        "predis/predis": "^2.0@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "林皓",
+            "email": "linhao00000000@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
