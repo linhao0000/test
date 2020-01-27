@@ -12,5 +12,10 @@
             "email": "linhao00000000@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "linhao\\": "test"
+        }
+    },
     "minimum-stability": "dev"
 }
