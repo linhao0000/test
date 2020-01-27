@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "linhao\\": "test"
+            "linhao\\": ""
         }
     },
     "minimum-stability": "dev"
